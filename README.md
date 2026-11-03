@@ -1,6 +1,6 @@
 # In-Silico Target Identification in Bovine Mastitis-Causing Pathogens
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bioinfokushwaha/FIAB2026_DT/blob/main/In_Silico_Target_Identification_Pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d0-paRZanuewG6yL09DlaJTx0vYxR0H3)
 
 Computational subtractive genomics, reverse vaccinology, and druggability pipeline for identifying therapeutic targets against four major mastitis-causing bacterial pathogens:
 - *Staphylococcus aureus* (Gram-positive)
@@ -38,7 +38,7 @@ FIAB2026_DT/
 
 Click the badge above or use the link below to open the pipeline directly in Google Colab:
 
-👉 **[Open In_Silico_Target_Identification_Pipeline.ipynb in Google Colab](https://colab.research.google.com/github/bioinfokushwaha/FIAB2026_DT/blob/main/In_Silico_Target_Identification_Pipeline.ipynb)**
+👉 **[Open Workshop Pipeline in Google Colab](https://colab.research.google.com/drive/1d0-paRZanuewG6yL09DlaJTx0vYxR0H3)**
 
 The notebook is configured to automatically pull this repository (`https://github.com/bioinfokushwaha/FIAB2026_DT.git`) and run every step with instant visualization and analysis in **Fast Workshop Demo Mode**.
 
