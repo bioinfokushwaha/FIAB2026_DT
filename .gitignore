@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Intermediate bulky BLAST indexes or temp files if exceeding GitHub limit
+*.tar.gz
+*.zip
